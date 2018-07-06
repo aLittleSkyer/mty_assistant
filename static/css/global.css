@@ -1,0 +1,10 @@
+.content {
+    position: relative;
+    max-width: 640px;
+    min-height: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+    box-shadow: 0 0 15px rgba(0, 0, 0, .2);
+    margin-bottom: 4.5rem;
+    background-image: -webkit-linear-gradient(90deg,#000,#00011e) !important; 
+}
